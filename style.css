@@ -1,0 +1,126 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+body{
+    
+}
+
+
+
+.navbar{
+    background-color: rgb(27, 79, 192);
+    height:60px;
+
+}
+.navbar ul{
+    padding-top: 15px;
+}
+.navbar li{
+    color:white;
+    list-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display:inline;
+
+    padding-left:400px;
+    
+}
+.navbar ul li a{
+    text-decoration: none;
+    color:white;
+}
+h2{
+    color: rgb(34, 34, 33);
+    text-align:center;
+    margin-top: 5%;
+   
+}
+
+.photo img{
+    width:20%;
+    height:50vh;
+    margin-left: 50px;
+   
+   
+    
+}
+.photo p{
+ 
+}
+p{
+   
+    height:50vh;
+    width:65%;
+    float:right;
+    padding:5%;
+    
+    
+   
+    
+    
+   
+}
+
+.profile{
+    
+    height:75vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5%;
+    
+    
+}
+
+#details{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width:50%;
+    float:right;
+    text-align: center;
+    margin-top: 5%;
+    
+}
+
+#details ul{
+    margin-top: 10%;
+
+
+}
+
+#details li{
+    margin-top: 15px;
+    text-align: justify;
+    list-style: none;
+}
+
+.experience ul {
+    margin-left: 5%;
+}
+.footer{
+    background-color: rgb(66, 66, 67);
+    height: 10vh;
+    color: white;
+   
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 5px;
+  
+    
+}
+
+.footer2{
+    background-color: rgb(66, 66, 67);
+    color:white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height:6.5vh;
+   
+
+}
+.footer3{
+    background-color: rgb(66, 66, 67);
+    color:white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height:8vh; 
+    margin-top:25px;
+    
+}
